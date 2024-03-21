@@ -1,17 +1,17 @@
 # PortX
 
-Aim:
-====
 Effective deFi portfolio management.
 
 Why deFi? To effectively allocate to the best assets at the best quantities, needs
 large compute. And why not be able to go directly to the market? 
 Yes, we are going to disrupt the investment management industry.
+The aim is to get the most return for the least risk and outperform some benchmark.
+Max(active risk adjusted return)
 
 The theory:
-===========
+***
 On the introduction of the base dimensions:
--------------------------------------------
+===
 Risk and return are the first two base dimensions, 
 where the latter gets more attention.
 Risk, in recent years have gathered more attention, probably
@@ -29,3 +29,9 @@ The last base dimension is something we are calling relativity.
 This is how one compares one asset to another or a group of assets to a benchmark.
 Intra portfolio it is done by the co-variance between assets. Inter portfolios
 we focus on differences between risk, return and exposures.
+
+On the introduction of second generation base dimensions
+===
+
+
+
