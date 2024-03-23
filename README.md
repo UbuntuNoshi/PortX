@@ -44,11 +44,61 @@ Return | Exposure = Contribution to performance
 Return of the portfolio is the sum of all the weights times each assets's performance.
 This weighted return gives insight into the drivers of the portfolio's performance.
 
+Return | Relativity = Active Return
+
+This dimension is commonly called alpha*. It is the outperformance of one asset
+over another, or a group of assets over another group of assets ussually called
+an index or benchmark. 
+
+*Active risk-adjusted retun is a superior measure but we are systematically getting there.
+
 Risk | Exposure = Contribution to risk
 
 Squareroot of the assets weight squared times its standard deviation squared
 plus the interaction part of the formula which is the 
 squareroot(2*wi*wj*stdevi*stdevj*correlij) between each asset.
+
+Risk | Relativity = Active risk
+
+Much like active active return but it gauges the 
+excess risk one or a group of assets have to another asset or group. Beta is the normal 
+measure but the difference in downside risk and -beta is a measure more suited as you
+shouldnt get penalised for positive shocks.
+
+Exposure | Relativity = Relative bets
+
+Example is easier.
+Suppose you have A, set of assets, and B another set of assets.
+Weight of asset in A minus weight of asset in B.
+Where a not element of B, relative bet > 0
+Where b not element of A, relative bet < 0
+where A is the asset/group of assets measured against asset or group 
+of assets B, ussualy an benchmark or index.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
