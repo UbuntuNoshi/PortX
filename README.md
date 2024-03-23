@@ -2,11 +2,23 @@
 
 ## Effective deFi portfolio management.
 
-Why deFi? To effectively allocate to the best assets at the best quantities, needs
-large compute. And why not be able to go directly to the market? 
+This is a pure quant aproach. Yes there are qualitative approaches.
+But the scope of this project is pure portfolio quants and incorporating AI.
+
+
+...to effectively allocate to the best assets at the best quantities, needs
+large compute. And why not be able to go directly to the market without a
+middleman charging you an annual fee? LFG DeFi.
+
+
 Yes, we are going to disrupt the investment management industry.
 The aim is to get the most return for the least risk and outperform some benchmark.
-Max(active risk adjusted return)
+And middlemen are too expensive.
+
+The goal:
+Max(active risk adjusted return) after fees.
+
+---
 
 ## The theory:
 
@@ -62,8 +74,7 @@ Risk | Relativity = Active risk
 
 Much like active active return but it gauges the 
 excess risk one or a group of assets have to another asset or group. Beta is the normal 
-measure but the difference in downside risk and -beta is a measure more suited as you
-shouldnt get penalised for positive shocks.
+measure but the difference in risk can also be used.
 
 Exposure | Relativity = Relative bets
 
@@ -75,8 +86,24 @@ Where b not element of A, relative bet < 0
 where A is the asset/group of assets measured against asset or group 
 of assets B, ussualy an benchmark or index.
 
+### On the introduction of the third generation dimensions (TGD):
 
+Contribution to return | Contribution to risk | Risk adjusted return = Contribution to risk adjusted return
 
+This is a dimension to see which assets contributed how much to the sharpe ration. It is a stronger insight
+as risky assets might not yield the performance to justify risking that much capital of the portfolio.
+
+Contribution to return | Relative bets | Active return = Contribution to active return
+
+*
+
+Contribution to risk | Relative bets | Active risk = Contribution to active risk
+
+*
+
+Active return | Active risk | Risk adjusted return = Active risk adjusted return
+
+*
 
 
 
