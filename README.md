@@ -8,10 +8,9 @@ But the scope of this project is pure portfolio quants and incorporating AI.
 
 ...to effectively allocate to the best assets at the best quantities, needs
 large compute. And why not be able to go directly to the market without a
-middleman charging you an annual fee? LFG DeFi.
+middleman charging you an annual fee for managing a portfolio? LFG DeFi.
 
 
-Yes, we are going to disrupt the investment management industry.
 The aim is to get the most return for the least risk and outperform some benchmark.
 And middlemen are too expensive.
 
